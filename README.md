@@ -6,7 +6,7 @@ This project involves a comprehensive scraping of IMDB data, spanning from the e
 
 ## Project Scope 🌐
 
-![IMDB Data Scraping]([https://example.com/imdb-data-scraping.gif](https://miro.medium.com/v2/resize:fit:640/1*fk4Qmbbx4phwXWCX6YQqXw.gif))
+![IMDB Data Scraping](https://media.tenor.com/w8hafq-Tl1QAAAAi/kopfkino-kopf.gif)
 
 The scope of this project encompasses:
 
